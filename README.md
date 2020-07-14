@@ -9,4 +9,5 @@ Web developer. Manager. Husband. Dad. Torontonian. Haligonian expat. Atheist. Fr
 
 I like to write essays about tech, developing for the web, people, and process.
 
+**Homepage:** https://matthogg.fyi  
 **RSS:** https://matthogg.fyi/feed.xml
