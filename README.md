@@ -1,6 +1,6 @@
 Hello, folks, I'm Matt. 👋
 
-Web developer. Manager. Husband. Dad. Torontonian. Haligonian expat. Atheist. Freethinker. Introvert. Hiker. Cyclist. Archer. Shutterbug. Junk food bon vivant. Part-time ribald.
+Web developer. Manager. Husband. Dad. Dundasian. Haligonian expat. Atheist. Freethinker. Introvert. Hiker. Cyclist. Archer. Shutterbug. Junk food bon vivant. Part-time ribald.
 
 **Twitter:** https://twitter.com/mrmatthogg  
 **LinkedIn:** https://www.linkedin.com/in/matthewhogg/  
