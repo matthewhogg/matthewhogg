@@ -5,7 +5,7 @@ Web developer. Manager. Husband. Dad. Dundasian. Haligonian expat. Atheist. Free
 **Twitter:** https://twitter.com/mrmatthogg  
 **LinkedIn:** https://www.linkedin.com/in/matthewhogg/  
 **Flickr:** https://www.flickr.com/photos/mrmatthogg/  
-**Instagram:** https://www.instagram.com/mrmatthogg/
+**Instagram:** https://www.instagram.com/mrmatthogg/  
 **DEV Community:** https://dev.to/mrmatthogg
 
 I like to write essays about tech, developing for the web, people, and process.
