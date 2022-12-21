@@ -3,6 +3,7 @@ Hello, folks, I'm Matt. 👋
 Web developer. Manager. Husband. Dad. Dundasian. Haligonian expat. Atheist. Freethinker. Introvert. Hiker. Cyclist. Archer. Shutterbug. Junk food bon vivant. Part-time ribald.
 
 **Twitter:** https://twitter.com/mrmatthogg  
+**Mastodon:** https://mstdn.ca/@mrmatthogg  
 **LinkedIn:** https://www.linkedin.com/in/matthewhogg/  
 **Flickr:** https://www.flickr.com/photos/mrmatthogg/  
 **Instagram:** https://www.instagram.com/mrmatthogg/  
